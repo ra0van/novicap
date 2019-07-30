@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "novicap.console", "novicap\novicap.console.csproj", "{C611C3B2-4B32-40DB-8EAC-0952CCF598FF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "novicap.app", "novicap.app\novicap.app.csproj", "{68B0DC29-1BE0-42DB-8FBA-F85E08C29529}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "novicap.respository", "novicap.respository\novicap.respository.csproj", "{7D69426F-CCDD-4F96-8E42-2E503E4BD309}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "novicap.tests", "novicap.tests\novicap.tests.csproj", "{9EAF8A18-3B15-4038-83CC-A8C87183F353}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C611C3B2-4B32-40DB-8EAC-0952CCF598FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C611C3B2-4B32-40DB-8EAC-0952CCF598FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C611C3B2-4B32-40DB-8EAC-0952CCF598FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C611C3B2-4B32-40DB-8EAC-0952CCF598FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68B0DC29-1BE0-42DB-8FBA-F85E08C29529}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68B0DC29-1BE0-42DB-8FBA-F85E08C29529}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68B0DC29-1BE0-42DB-8FBA-F85E08C29529}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68B0DC29-1BE0-42DB-8FBA-F85E08C29529}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D69426F-CCDD-4F96-8E42-2E503E4BD309}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D69426F-CCDD-4F96-8E42-2E503E4BD309}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D69426F-CCDD-4F96-8E42-2E503E4BD309}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D69426F-CCDD-4F96-8E42-2E503E4BD309}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EAF8A18-3B15-4038-83CC-A8C87183F353}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EAF8A18-3B15-4038-83CC-A8C87183F353}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EAF8A18-3B15-4038-83CC-A8C87183F353}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EAF8A18-3B15-4038-83CC-A8C87183F353}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC3C8940-EDD9-4D5A-A5E9-7C41E99E8DBD}
+	EndGlobalSection
+EndGlobal

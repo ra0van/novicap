@@ -1,0 +1,8 @@
+E:\Code\Git\novicap\novicap\novicap.app\bin\Debug\netstandard2.0\novicap.app.deps.json
+E:\Code\Git\novicap\novicap\novicap.app\bin\Debug\netstandard2.0\novicap.app.dll
+E:\Code\Git\novicap\novicap\novicap.app\bin\Debug\netstandard2.0\novicap.app.pdb
+E:\Code\Git\novicap\novicap\novicap.app\obj\Debug\netstandard2.0\novicap.app.csproj.CoreCompileInputs.cache
+E:\Code\Git\novicap\novicap\novicap.app\obj\Debug\netstandard2.0\novicap.app.AssemblyInfoInputs.cache
+E:\Code\Git\novicap\novicap\novicap.app\obj\Debug\netstandard2.0\novicap.app.AssemblyInfo.cs
+E:\Code\Git\novicap\novicap\novicap.app\obj\Debug\netstandard2.0\novicap.app.dll
+E:\Code\Git\novicap\novicap\novicap.app\obj\Debug\netstandard2.0\novicap.app.pdb
